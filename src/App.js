@@ -25,29 +25,29 @@ function App() {
 
                
                     <div className="bostami-parsonal-info-img">
-                        <img src="/img/parsonal-info/parson-img-3.png" alt="avatar"/>
+                        <img src="/img/parsonal-info/parson-img-4.jpg" alt="avatar"/>
                     </div>
 
                   
                     <h4 className="bostami-parsonal-info-name">
-                        <a href="#">Monalisa Ashley</a>
+                    Ceebla Cabdillaahi 
                     </h4>
                     <span className="bostami-parsonal-info-bio mb-15">Ui/Ux Designer</span>
 
                  
                     <ul className="bostami-parsonal-info-social-link mb-30">
                         <li>
-                            <a href="#" className="facebook">
+                            <a href="https://www.facebook.com/profile.php?id=100008982971273" className="facebook">
                                 <i className="fa-brands "><FaFacebook/></i>
                             </a>
                         </li>
                         <li>
-                            <a href="#" className="twitter">
+                            <a href="https://www.linkedin.com/in/ceebla-cabdilaahi-142796275/" className="twitter">
                             <i className="fa-brands "><FaLinkedin/></i>
                             </a>
                         </li>
                         <li>
-                            <a href="#" className="instagram">
+                            <a href="https://wa.me/+252633994689" className="instagram">
                             <i className="fa-brands "><FaWhatsapp/></i>
                             </a>
                         </li>
@@ -100,7 +100,7 @@ function App() {
 
                    
                     <div className="bostami-parsonal-info-btn">
-                        <a className="btn-2 circle" href="#">
+                        <a className="btn-2 circle" href="https://drive.google.com/file/d/1Gn2mZUfr317fCO-c29R6YWpYTA6zYs7B/view?usp=drive_link">
                             <span className="icon">
                                 <i className="fa-regular fa-download"></i>
                             </span>
@@ -197,6 +197,34 @@ function App() {
 
                 <div className="bostami-page-content-wrap">
 
+                <div className="section-wrapper pl-60 pr-60 pt-60">
+    <div className="bostami-page-title-wrap mb-15">
+        <h2 className="page-title">Technologies Stack</h2>
+    </div>
+    
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <spna>    </spna>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="csharp logo"  />
+</div>
+</div>
+
+
+
+
 
 <div className="section-wrapper pl-60 pr-60 pt-60">
     <div className="bostami-page-title-wrap mb-15">
@@ -279,49 +307,14 @@ function App() {
 </div>
 
             
-                <div className="section-wrapper bg-light-white-2 pt-45 pb-60 pl-60 pr-60">
-
-                    <div className="bostami-section-title-wrap text-center mb-50">
-                        <h3 className="section-title">clinet</h3>
-                    </div>
-
-                    <div className="bostami-client-slider">
-                        <div className="swiper-container client_slide_active">
-                            <div className="swiper-wrapper porto2" >
-
-                             
-                                <div className="swiper-slide">
-                                    <img className="bostami-client-slider-logo"
-                                        src="/img/client/client-logo-1.png" alt=""/>
-                                </div>
-
-                                <div className="swiper-slide">
-                                    <img className="bostami-client-slider-logo"
-                                        src="/img/client/client-logo-2.png" alt=""/>
-                                </div>
-
-                              
-                                <div className="swiper-slide">
-                                    <img className="bostami-client-slider-logo"
-                                        src="/img/client/client-logo-3.png" alt=""/>
-                                </div>
-
-                              
-                                <div className="swiper-slide">
-                                    <img className="bostami-client-slider-logo"
-                                        src="/img/client/client-logo-4.png" alt=""/>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
+               
 
              
                 <div className="footer-copyright text-center pt-25 pb-25">
                     <span>© 2024 All Rights Reserved.</span>
                 </div>
+
+                
 
             </div>
         </div>
