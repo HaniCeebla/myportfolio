@@ -32,7 +32,7 @@ function App() {
                     <h4 className="bostami-parsonal-info-name">
                     Ceebla Cabdillaahi 
                     </h4>
-                    <span className="bostami-parsonal-info-bio mb-15">Web Designer | Development</span>
+                    <span className="bostami-parsonal-info-bio mb-15">Web Designer | Developer</span>
 
                  
                     <ul className="bostami-parsonal-info-social-link mb-30">
