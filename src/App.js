@@ -124,7 +124,7 @@ function App() {
                   <div className="bostami-parsonal-info-btn">
                     <a
                       className="btn-2 circle"
-                      href="https://drive.google.com/file/d/1VMc2D5Ay_haWuQXfPrT_MeIvRAXB52VZ/view?usp=drive_link"
+                      href="https://drive.google.com/file/d/1tf2T2JpGWpca-OrFaSAS1cr93QL2LBAB/view?usp=drive_link"
                     >
                       <span className="icon">
                         <i className="fa-regular fa-download"></i>
